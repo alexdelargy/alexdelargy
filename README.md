@@ -4,8 +4,8 @@
 
 **alexdelargy/alexdelargy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on: *Pandas in python*
-- 🌱 I’m currently learning: *Web Development*
+- 🔭 I’m currently working on: *Web Scraping*
+- 🌱 I’m currently learning: *SQL*
 - 💬 Ask me about: *Data Structures*
 - 📫 How to reach me: *addelargy97@gmail.com*
 - 😄 Pronouns: *He/Him/His*
